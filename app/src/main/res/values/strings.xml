@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OneGo</string>
+    <string name="nav_open">open</string>
+    <string name="nav_close">close</string>
+    <string name="sample_text_amp_logo"><![CDATA[Sample text & logo]]></string>
+    <string name="enter_id">Enter id</string>
+    <string name="get_info">get info</string>
+</resources>
